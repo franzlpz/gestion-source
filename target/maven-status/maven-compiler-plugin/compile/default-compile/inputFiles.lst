@@ -1,0 +1,11 @@
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\services\impl\ArticleServiceImpl.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\kafka\listener\KafkaConsumer.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\GestionSourceApiApplication.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\repositories\IArticleRepository.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\services\IArticleService.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\services\IGenericService.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\common\ServiceResponse.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\models\Article.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\kafka\config\KakfaConfiguration.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\controllers\ArticleController.java
+C:\Users\frank.lopez\Proyectos\SprintBoot\gestion-source-api\src\main\java\com\gestion\source\app\common\Constants.java

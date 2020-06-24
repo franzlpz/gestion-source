@@ -1,0 +1,11 @@
+com\gestion\source\app\common\ServiceResponse.class
+com\gestion\source\app\services\IGenericService.class
+com\gestion\source\app\GestionSourceApiApplication.class
+com\gestion\source\app\services\IArticleService.class
+com\gestion\source\app\common\Constants.class
+com\gestion\source\app\controllers\ArticleController.class
+com\gestion\source\app\kafka\config\KakfaConfiguration.class
+com\gestion\source\app\services\impl\ArticleServiceImpl.class
+com\gestion\source\app\models\Article.class
+com\gestion\source\app\repositories\IArticleRepository.class
+com\gestion\source\app\kafka\listener\KafkaConsumer.class
